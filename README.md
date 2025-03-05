@@ -6,11 +6,15 @@ Resume ranking is the process of evaluating and scoring resumes based on predefi
 
 Key Factors in Resume Ranking:
 
-Relevance to Job Description – Matching skills, experience, and qualifications with job requirements.
-1.Keyword Optimization – Including industry-specific and job-relevant keywords to pass ATS screening.
-2.Experience & Achievements – Highlighting measurable accomplishments and relevant work history.
-3.Education & Certifications – Emphasizing degrees, professional training, and relevant certifications.
-4.Formatting & Readability – Using a clean, structured layout for easy scanning by recruiters and ATS.
+1.Relevance to Job Description – Matching skills, experience, and qualifications with job requirements.
+
+2.Keyword Optimization – Including industry-specific and job-relevant keywords to pass ATS screening.
+
+3.Experience & Achievements – Highlighting measurable accomplishments and relevant work history.
+
+4.Education & Certifications – Emphasizing degrees, professional training, and relevant certifications.
+
+5.Formatting & Readability – Using a clean, structured layout for easy scanning by recruiters and ATS.
 
 How to Improve Resume Ranking:
 
