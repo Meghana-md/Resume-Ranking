@@ -19,6 +19,9 @@ Key Factors in Resume Ranking:
 How to Improve Resume Ranking:
 
 1.Customize your resume for each job application.
+
 2.Use action-oriented language and quantified achievements.
+
 3.Keep formatting ATS-friendly (avoid excessive graphics, tables, or complex layouts).
+
 4.Incorporate relevant keywords from the job posting.
